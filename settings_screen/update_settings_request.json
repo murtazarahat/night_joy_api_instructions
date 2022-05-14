@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "location": {},
+  "sub_scriptions": {
+    "notification": true,
+    "news_letter": true,
+    "special_offers": true
+  }
+}

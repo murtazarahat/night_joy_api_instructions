@@ -1,0 +1,2 @@
+Take a look at the screen for the details of a club
+to see what data do we require at the application end

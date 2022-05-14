@@ -1,0 +1,1 @@
+Single api that returns banners for all of the Big 4 Entities

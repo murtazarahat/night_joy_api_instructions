@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "Any Message You See Fit But It Should Be Consistant Throughout APIs",
+  "data": {
+    "most_populated_bars": [],
+    "top_rated_bars": [],
+    "most_visited_bars": []
+  }
+}

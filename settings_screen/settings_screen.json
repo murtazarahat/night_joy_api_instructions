@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "Any Message You See Fit But It Should Be Consistant Throughout APIs",
+  "data": {
+    "language": "Languages short codes ENG,",
+    "subscriptions": {
+      "notification": true,
+      "news_letter": true,
+      "special_offers": true
+    }
+  }
+}

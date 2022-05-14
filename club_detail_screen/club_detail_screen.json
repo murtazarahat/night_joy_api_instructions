@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "message": "Any Message You See Fit But It Should Be Consistant Throughout APIs",
+  "data": {
+    "banner": [],
+    "info": {},
+    "events": [],
+    "services": {
+      "table_booking": [],
+      "guest_list": [],
+      "tickets": [],
+      "bootle_service": []
+    },
+    "map": {}
+  }
+}
